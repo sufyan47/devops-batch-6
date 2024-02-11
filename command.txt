@@ -2,4 +2,6 @@ this is file for commands
 
 git init
 git add
-
+git commit
+git restore
+git status
